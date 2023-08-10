@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... web developement and software engineering 
 - 💞️ I’m looking to collaborate on ... With the tech industry to help improve our services
 - so as to serve you better thank you for choosing @Tim's enterprise 
-- 📫 How to reach me ...09137295715 or https://WhatsApp.08066834864
+- 📫 How to reach me ...09137295715 or https://wa.me/qr/55SUA3IA7KQYD1
 
 <!---
 kemeTim/kemeTim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
